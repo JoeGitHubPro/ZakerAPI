@@ -22,7 +22,7 @@
 ## Deploy DataBase
 
 ```sh
-Run SQL file at this location [https://github.com/JoeGitHubPro/Student-Book/blob/master/DBscript.txt] on database server
+Run SQL file at this location [https://github.com/JoeGitHubPro/ZakerAPI/blob/main/DBscript.txt] on database server
 ```
 
 ## Deploy
